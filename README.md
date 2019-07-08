@@ -1,4 +1,4 @@
-## Step 1 download code
+## Step 1 download code(release version)
 ```
 git clone xxx
 ```
