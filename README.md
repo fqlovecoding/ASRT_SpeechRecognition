@@ -1,3 +1,17 @@
+## Step 1 download code
+```
+git clone xxx
+```
+## Step 2 download test.wav
+```
+from qq download test.wav
+```
+## Step 3 modify test.py line 38
+```
+using self file path
+```
+
+========================================================================================================================================
 # A Deep-Learning-Based Chinese Speech Recognition System
 基于深度学习的中文语音识别系统，如果您觉得喜欢，请点一个 **"Star"** 吧~
 
